@@ -1,4 +1,4 @@
-# CustomElementProject
+# angular-element  ( CustomElementProject )
 
 In this project we are creating angular element (custom element) and using it in other angular application i.e angular-element-base-project.
 Clone both repositories to try in your local.
